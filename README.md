@@ -70,5 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Start this project
 
 ### `npm install`
-### `npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome`
 ### `npm start`
