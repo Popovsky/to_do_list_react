@@ -1,0 +1,45 @@
+.task_done {
+    text-decoration: line-through;
+}
+
+.container-custom {
+    width: 300px;
+    margin: auto;
+}
+
+.container-custom form input {
+    width: 70%;
+    padding-left: 15px;
+}
+
+.container-custom form button {
+    width: 30%;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0 10px 0;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid silver;
+}
+
+button, input {
+    border-radius: 5px!important;
+    outline: none!important;
+}
+
+ul li button {
+    width: 35px;
+}
+
+.remove {
+    color: red;
+}
+
+.check {
+    color: #169900;
+}
